@@ -6,7 +6,7 @@
     <div class="offcanvas-body">
         <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="#">Hone</a>
+              <a class="nav-link" href="#">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">News / Event</a>
