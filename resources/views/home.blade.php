@@ -64,7 +64,7 @@
                 
             <div class="card bg-white border-light me-2" >
                 <div class="card-body text-center">
-                    <iframe width="902" height="500" src="https://www.youtube.com/embed/xo2V6UzqtMQ" title="New Honda #Vario125, Jadikan Harimu Istimewa!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="602" height="500" src="https://www.youtube.com/embed/xo2V6UzqtMQ" title="New Honda #Vario125, Jadikan Harimu Istimewa!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
 
